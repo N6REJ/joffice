@@ -2,6 +2,7 @@
 Designers job tracking software.
 
 This software should provide basic CRM type services for website designers.  It's NOT meant to be a full blown crm but instead something that allows easy tracking & searching of data needed/used in the process of creating a website.
+Should use composer/npm libraries whenever possible.
 
 Key goals are:
 1. contacts
