@@ -13,6 +13,7 @@ Key goals are:
   - URL admin ( sites )
   - Notes
   
+  
 2. Designers
   - Id ( index )
   - default designer ( y / n )
@@ -22,6 +23,7 @@ Key goals are:
   - facebook
   - Notes
   - Tags
+  
   
 3. Sites ( multiple per contact )
   - Id ( index )
@@ -38,6 +40,7 @@ Key goals are:
   - Snippets ( snippets )
   - Software used ( software )
   
+  
 4. Access
   - Id ( index )
   - Site url ( contacts )
@@ -48,12 +51,14 @@ Key goals are:
   - Designer ftp pw
   - Notes
   
+  
 5. Snippets
   - Id ( Index )
   - Site ( sites )
   - Notes ( searchable )
   - Snippets ( searchable )
   - Tags
+  
   
 6. Software
   - Id ( index )
@@ -67,9 +72,9 @@ Key goals are:
   - key
   - Notes
  
+ 
 7. Media
   - Site ( sites )
   - Usage
   - file
   - Notes
-  
